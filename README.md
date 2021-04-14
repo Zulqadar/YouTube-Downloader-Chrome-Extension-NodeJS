@@ -1,5 +1,6 @@
 # YouTube-Downloader-Chrome-Extension-NodeJS
-##Author: Zulqadar Idrishi
+## Author: Zulqadar Idrishi
+
 This includes Two Projects:
 
 1. Client-Side: Chrome Extension Project.
