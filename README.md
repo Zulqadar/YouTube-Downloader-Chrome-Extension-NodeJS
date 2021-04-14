@@ -1,5 +1,6 @@
 # YouTube-Downloader-Chrome-Extension-NodeJS
-## Author: Zulqadar Idrishi
+This Project is design and developed by ## Zulqadar Idrishi
+## Instructions
 
 This includes Two Projects:
 
