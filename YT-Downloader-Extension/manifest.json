@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+  
+    "name": "YT Downloader",
+    "author":"Zulqadar Idrishi",
+    "description": "This extension let's you download YouTube Videos.",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+       "activeTab","tabs", "<all_urls>",
+       "http://localhost:4000/*"
+     ]
+  }
