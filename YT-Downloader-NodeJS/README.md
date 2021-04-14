@@ -3,4 +3,5 @@
 2. Open terminal and execute following command.
 3. > npm init.
 4. > npm install express cors ytdl-core
-5. To Run Server: > node index.js
+5. To Run Server use following command. 
+6. > node index.js
